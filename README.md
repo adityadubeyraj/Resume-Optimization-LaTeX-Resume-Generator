@@ -32,12 +32,11 @@ You can upload an existing resume and job description to receive **optimized sug
 
 Resume_Optimizer/
 │
-├── frontend.py # Main Streamlit App
-├── backend.py # Core Logic & Prompt Engineering
-├── resume.tex # LaTeX Resume Template
-├── .env # Environment Variables (Google API Key)
-└── README.md # Project Documentation
-
+├── frontend.py        # Main Streamlit App
+├── backend.py         # Core Logic & Prompt Engineering
+├── resume.tex         # LaTeX Resume Template
+├── .env               # Environment Variables (Google API Key)
+└── README.md          # Project Documentation
 
 ---
 
